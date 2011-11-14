@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'pointer_position' target in the 'pointer_position' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
